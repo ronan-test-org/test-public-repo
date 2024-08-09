@@ -7,6 +7,3 @@ aaa
 hello 
 holà
 
-
-
-bonjour
